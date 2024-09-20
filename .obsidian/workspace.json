@@ -1,0 +1,224 @@
+{
+  "main": {
+    "id": "6830498225213450",
+    "type": "split",
+    "children": [
+      {
+        "id": "f90182b9a36d9d9b",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "6036dd1de2071ed4",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "notes/002.主要分割、延伸分割、逻辑分割.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "74dbbf7e008d4171",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "notes/002.【硬件】内存的重要性.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "01a8e7a978e93489",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "notes/002.【硬件】内存的重要性.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "800f7c5cc0f9f35f",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "notes/003.【硬件】显卡.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "eb72876a58fc239a",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "notes/004.【硬件】硬盘.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "08665bfb7ac4ef24",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "notes/005. 操作系统.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ],
+        "currentTab": 5
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "24e7c67456222dc7",
+    "type": "split",
+    "children": [
+      {
+        "id": "458281819d84c0a4",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "b7ed9564baa1db7d",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "e3c11484120c2209",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "f90cda49d42bf329",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 200
+  },
+  "right": {
+    "id": "445201ad71900d6e",
+    "type": "split",
+    "children": [
+      {
+        "id": "429d41e8a5a28d78",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "12235d2d66e7cb9f",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "notes/005. 操作系统.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "969428c6cfa59f86",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "notes/005. 操作系统.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "db12d628bf702b53",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "fa2adaddb55d6ec0",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "notes/005. 操作系统.md"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:打开快速切换": false,
+      "graph:查看关系图谱": false,
+      "canvas:新建白板": false,
+      "daily-notes:打开/创建今天的日记": false,
+      "templates:插入模板": false,
+      "command-palette:打开命令面板": false
+    }
+  },
+  "active": "08665bfb7ac4ef24",
+  "lastOpenFiles": [
+    "notes/Pasted image 20240920100031.png",
+    "notes/004.【硬件】硬盘.md",
+    "notes/005. 操作系统.md",
+    "notes/荣格作品集-心理类型.pdf",
+    "notes/003.【硬件】显卡.md",
+    "notes/002.【硬件】内存的重要性.md",
+    "notes/001.【硬件】CPU.md",
+    "notes/00.webs.md",
+    "notes/003.开机流程.md",
+    "notes/002.主要分割、延伸分割、逻辑分割.md",
+    "未命名.md"
+  ]
+}
