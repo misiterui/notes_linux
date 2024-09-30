@@ -4,83 +4,22 @@
     "type": "split",
     "children": [
       {
-        "id": "f90182b9a36d9d9b",
+        "id": "f846ba363f0d5ccb",
         "type": "tabs",
         "children": [
           {
-            "id": "6036dd1de2071ed4",
+            "id": "136199012a36fabe",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "notes/002.主要分割、延伸分割、逻辑分割.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "74dbbf7e008d4171",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "notes/002.【硬件】内存的重要性.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "01a8e7a978e93489",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "notes/002.【硬件】内存的重要性.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "800f7c5cc0f9f35f",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "notes/003.【硬件】显卡.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "eb72876a58fc239a",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "notes/004.【硬件】硬盘.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "08665bfb7ac4ef24",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "notes/005. 操作系统.md",
+                "file": "notes/015.【文件】目录配置FHS.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 5
+        ]
       }
     ],
     "direction": "vertical"
@@ -130,7 +69,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 397.5
   },
   "right": {
     "id": "445201ad71900d6e",
@@ -146,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "notes/005. 操作系统.md",
+                "file": "notes/015.【文件】目录配置FHS.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -163,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "notes/005. 操作系统.md",
+                "file": "notes/015.【文件】目录配置FHS.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -186,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "notes/005. 操作系统.md"
+                "file": "notes/015.【文件】目录配置FHS.md"
               }
             }
           }
@@ -207,18 +146,30 @@
       "command-palette:打开命令面板": false
     }
   },
-  "active": "08665bfb7ac4ef24",
+  "active": "b7ed9564baa1db7d",
   "lastOpenFiles": [
-    "notes/Pasted image 20240920100031.png",
+    "notes/Pasted image 20240929115743.png",
+    "notes/014.【文件】文件类型.md",
+    "notes/015.【文件】目录配置FHS.md",
+    "notes/013.【文件】改变权限.md",
+    "notes/012.【文件】文件信息.md",
+    "notes/011.【编辑器】nano.md",
+    "notes/010.【命令】info.md",
+    "notes/009.【命令】man.md",
+    "notes/Pasted image 20240927120710.png",
+    "notes/008.【文件系统】挂载.md",
+    "notes/007.【开机流程】BIOS vs. UEFI.md",
+    "notes/img/02.开机流程01.png",
+    "notes/006.【磁盘】主要分割、延伸分割、逻辑分割.md",
+    "notes/005.【系统】操作系统.md",
+    "notes/000.webs.md",
+    "notes/img/006.GPT分区表结构示意图.png",
     "notes/004.【硬件】硬盘.md",
-    "notes/005. 操作系统.md",
-    "notes/荣格作品集-心理类型.pdf",
     "notes/003.【硬件】显卡.md",
     "notes/002.【硬件】内存的重要性.md",
     "notes/001.【硬件】CPU.md",
-    "notes/00.webs.md",
-    "notes/003.开机流程.md",
-    "notes/002.主要分割、延伸分割、逻辑分割.md",
+    "notes/img/005.操作系统01.png",
+    "notes/荣格作品集-心理类型.pdf",
     "未命名.md"
   ]
 }
