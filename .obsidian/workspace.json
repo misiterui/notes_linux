@@ -13,13 +13,98 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "notes/015.【文件】目录配置FHS.md",
+                "file": "notes/016.【文件】目录的相关操作.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "7f8bf63df7e47747",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "notes/017.【文件】环境变量$PATH.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "c284a561f61fdeca",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "notes/013.【文件】改变权限.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "3b0cb2c38bae0c3b",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "notes/019.【目录】cp.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "6450d1556b7e11e5",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "notes/020.【目录】rm.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "f6cbe06f1f50095b",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "notes/021.【目录】mv.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "793b8d4efa2e5059",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "notes/022.【目录】获取文件名和目录名.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "8f19527b5ef9627e",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "notes/023.【文件】内容查阅.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -85,7 +170,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "notes/015.【文件】目录配置FHS.md",
+                "file": "notes/013.【文件】改变权限.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +187,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "notes/015.【文件】目录配置FHS.md",
+                "file": "notes/013.【文件】改变权限.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +210,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "notes/015.【文件】目录配置FHS.md"
+                "file": "notes/013.【文件】改变权限.md"
               }
             }
           }
@@ -146,29 +231,43 @@
       "command-palette:打开命令面板": false
     }
   },
-  "active": "b7ed9564baa1db7d",
+  "active": "c284a561f61fdeca",
   "lastOpenFiles": [
-    "notes/Pasted image 20240929115743.png",
-    "notes/014.【文件】文件类型.md",
-    "notes/015.【文件】目录配置FHS.md",
-    "notes/013.【文件】改变权限.md",
     "notes/012.【文件】文件信息.md",
-    "notes/011.【编辑器】nano.md",
+    "notes/013.【文件】改变权限.md",
+    "notes/018.【目录】ls.md",
+    "notes/023.【文件】内容查阅.md",
+    "notes/022.【目录】获取文件名和目录名.md",
+    "notes/021.【目录】mv.md",
+    "notes/020.【目录】rm.md",
+    "notes/019.【目录】cp.md",
+    "notes/017.【文件】环境变量$PATH.md",
+    "notes/016.【文件】目录的相关操作.md",
+    "notes/015.【文件】目录配置FHS.md",
+    "notes/014.【文件】文件类型.md",
     "notes/010.【命令】info.md",
-    "notes/009.【命令】man.md",
-    "notes/Pasted image 20240927120710.png",
     "notes/008.【文件系统】挂载.md",
+    "notes/img/015.目录的4中交互形态.png",
+    "notes/009.【命令】man.md",
+    "notes/img/009.man01.png",
     "notes/007.【开机流程】BIOS vs. UEFI.md",
+    "notes/011.【编辑器】nano.md",
     "notes/img/02.开机流程01.png",
+    "notes/img/006.磁盘分割01.png",
+    "notes/img/006.磁盘分割02.png",
+    "notes/img/006.GPT分区表结构示意图.png",
+    "notes/Pasted image 20241009165306.png",
+    "notes/Pasted image 20241010104432.png",
+    "notes/test记得删.md",
+    "notes/Pasted image 20240929115743.png",
+    "notes/Pasted image 20240927120710.png",
     "notes/006.【磁盘】主要分割、延伸分割、逻辑分割.md",
     "notes/005.【系统】操作系统.md",
     "notes/000.webs.md",
-    "notes/img/006.GPT分区表结构示意图.png",
     "notes/004.【硬件】硬盘.md",
     "notes/003.【硬件】显卡.md",
     "notes/002.【硬件】内存的重要性.md",
     "notes/001.【硬件】CPU.md",
-    "notes/img/005.操作系统01.png",
     "notes/荣格作品集-心理类型.pdf",
     "未命名.md"
   ]
