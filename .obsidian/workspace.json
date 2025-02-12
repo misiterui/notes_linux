@@ -146,19 +146,23 @@
       "command-palette:打开命令面板": false
     }
   },
-  "active": "41519372c04208f1",
+  "active": "b7ed9564baa1db7d",
   "lastOpenFiles": [
-    "notes/99.杂项/01.正则表达式.md",
+    "notes/023.【文件】内容查阅.md",
+    "notes/02.权限/013.【文件】改变权限.md",
+    "notes/01.命令/010.【命令】info.md",
+    "notes/01.命令/009.【命令】man.md",
+    "notes/02.权限/012.【文件】文件信息.md",
+    "notes/02.权限/014.【文件】文件类型.md",
+    "notes/02.权限",
     "README.md",
+    "notes/99.杂项/01.正则表达式.md",
     "notes/01.命令/01.命令格式总结.md",
     "notes/011.【编辑器】nano.md",
-    "notes/013.【文件】改变权限.md",
     "notes/99.杂项",
     "notes/01.命令",
     "notes/未命名.md",
-    "notes/012.【文件】文件信息.md",
     "notes/018.【目录】ls.md",
-    "notes/023.【文件】内容查阅.md",
     "notes/022.【目录】获取文件名和目录名.md",
     "notes/021.【目录】mv.md",
     "notes/020.【目录】rm.md",
@@ -166,11 +170,8 @@
     "notes/017.【文件】环境变量$PATH.md",
     "notes/016.【文件】目录的相关操作.md",
     "notes/015.【文件】目录配置FHS.md",
-    "notes/014.【文件】文件类型.md",
-    "notes/010.【命令】info.md",
     "notes/008.【文件系统】挂载.md",
     "notes/img/015.目录的4中交互形态.png",
-    "notes/009.【命令】man.md",
     "notes/img/009.man01.png",
     "notes/007.【开机流程】BIOS vs. UEFI.md",
     "notes/img/02.开机流程01.png",
@@ -185,7 +186,6 @@
     "notes/006.【磁盘】主要分割、延伸分割、逻辑分割.md",
     "notes/005.【系统】操作系统.md",
     "notes/000.webs.md",
-    "notes/004.【硬件】硬盘.md",
     "notes/荣格作品集-心理类型.pdf"
   ]
 }

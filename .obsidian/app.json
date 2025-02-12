@@ -3,7 +3,7 @@
   "newLinkFormat": "relative",
   "attachmentFolderPath": "./",
   "readableLineLength": false,
-  "vimMode": true,
+  "vimMode": false,
   "alwaysUpdateLinks": true,
   "promptDelete": false
 }
