@@ -1,19 +1,19 @@
 {
   "main": {
-    "id": "6830498225213450",
+    "id": "b75f8c4e96c19b68",
     "type": "split",
     "children": [
       {
-        "id": "f846ba363f0d5ccb",
+        "id": "21bda74ff3f1eea2",
         "type": "tabs",
         "children": [
           {
-            "id": "41519372c04208f1",
+            "id": "d029d1c8c945992f",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "README.md",
+                "file": "notes/04.文件系统/01.文件系统.md",
                 "mode": "source",
                 "source": false
               }
@@ -25,15 +25,15 @@
     "direction": "vertical"
   },
   "left": {
-    "id": "24e7c67456222dc7",
+    "id": "3616d11b60114d40",
     "type": "split",
     "children": [
       {
-        "id": "458281819d84c0a4",
+        "id": "4689b17ef7aece0f",
         "type": "tabs",
         "children": [
           {
-            "id": "b7ed9564baa1db7d",
+            "id": "fbc5c9aea840eef3",
             "type": "leaf",
             "state": {
               "type": "file-explorer",
@@ -43,7 +43,7 @@
             }
           },
           {
-            "id": "e3c11484120c2209",
+            "id": "87e202f353e0d144",
             "type": "leaf",
             "state": {
               "type": "search",
@@ -58,7 +58,7 @@
             }
           },
           {
-            "id": "f90cda49d42bf329",
+            "id": "8f52ac4b2e231b07",
             "type": "leaf",
             "state": {
               "type": "bookmarks",
@@ -69,23 +69,23 @@
       }
     ],
     "direction": "horizontal",
-    "width": 397.5
+    "width": 300
   },
   "right": {
-    "id": "445201ad71900d6e",
+    "id": "0733eb5f27517c00",
     "type": "split",
     "children": [
       {
-        "id": "429d41e8a5a28d78",
+        "id": "e287fdfb50250554",
         "type": "tabs",
         "children": [
           {
-            "id": "12235d2d66e7cb9f",
+            "id": "58c2db351335d5a5",
             "type": "leaf",
             "state": {
               "type": "backlink",
               "state": {
-                "file": "README.md",
+                "file": "notes/04.文件系统/01.文件系统.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -97,19 +97,19 @@
             }
           },
           {
-            "id": "969428c6cfa59f86",
+            "id": "4db3db2c439147c0",
             "type": "leaf",
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "README.md",
+                "file": "notes/04.文件系统/01.文件系统.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
             }
           },
           {
-            "id": "db12d628bf702b53",
+            "id": "5620ea984d59a8d8",
             "type": "leaf",
             "state": {
               "type": "tag",
@@ -120,21 +120,29 @@
             }
           },
           {
-            "id": "fa2adaddb55d6ec0",
+            "id": "f8d40fb46872c0b0",
             "type": "leaf",
             "state": {
               "type": "outline",
               "state": {
-                "file": "README.md"
+                "file": "notes/04.文件系统/01.文件系统.md"
               }
             }
+          },
+          {
+            "id": "df4acff0532d89f1",
+            "type": "leaf",
+            "state": {
+              "type": "calendar",
+              "state": {}
+            }
           }
-        ]
+        ],
+        "currentTab": 3
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 205.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -146,46 +154,53 @@
       "command-palette:打开命令面板": false
     }
   },
-  "active": "b7ed9564baa1db7d",
+  "active": "fbc5c9aea840eef3",
   "lastOpenFiles": [
-    "notes/023.【文件】内容查阅.md",
-    "notes/02.权限/013.【文件】改变权限.md",
-    "notes/01.命令/010.【命令】info.md",
-    "notes/01.命令/009.【命令】man.md",
-    "notes/02.权限/012.【文件】文件信息.md",
-    "notes/02.权限/014.【文件】文件类型.md",
-    "notes/02.权限",
+    "notes/img/VFS文件系统.png",
+    "notes/04.文件系统/attachments",
+    "notes/04.文件系统/014.【文件】文件类型.md",
+    "notes/04.文件系统/012.【文件】文件信息.md",
+    "notes/img/Ext2文件系统.png",
+    "bazi/八字.md",
+    "bazi/attachments/Pasted image 20250202182142.png",
+    "bazi/case/me.md",
+    "bazi/case/烈2000,0925,0637.md",
+    "bazi/case/attachments/me.png",
+    "bazi/case/attachments/Pasted image 20250130133228.png",
+    "bazi/case/attachments/me.png",
+    "bazi/case/attachments/烈.png",
+    "bazi/case/attachments",
+    "bazi/case",
+    "bazi/attachments/地支三合.jpeg",
+    "bazi/attachments/地支藏干.jpeg",
+    "bazi/attachments/地支五行.jpeg",
+    "bazi/attachments/366ebe2a47392bce56ab2523b31978e4.jpeg",
+    "bazi/attachments",
+    "projects/data_visualization/random_walk/random_walk.py",
+    "projects/data_visualization/random_walk",
+    "projects/data_visualization/scatter_squares.py",
+    "projects/data_visualization/mpl_squares.py",
+    "projects/data_visualization/main.py",
+    "projects/data_visualization",
+    "python.md",
+    "notes/python.md",
     "README.md",
-    "notes/99.杂项/01.正则表达式.md",
-    "notes/01.命令/01.命令格式总结.md",
-    "notes/011.【编辑器】nano.md",
-    "notes/99.杂项",
-    "notes/01.命令",
-    "notes/未命名.md",
-    "notes/018.【目录】ls.md",
-    "notes/022.【目录】获取文件名和目录名.md",
-    "notes/021.【目录】mv.md",
-    "notes/020.【目录】rm.md",
-    "notes/019.【目录】cp.md",
-    "notes/017.【文件】环境变量$PATH.md",
-    "notes/016.【文件】目录的相关操作.md",
-    "notes/015.【文件】目录配置FHS.md",
-    "notes/008.【文件系统】挂载.md",
-    "notes/img/015.目录的4中交互形态.png",
-    "notes/img/009.man01.png",
-    "notes/007.【开机流程】BIOS vs. UEFI.md",
-    "notes/img/02.开机流程01.png",
-    "notes/img/006.磁盘分割01.png",
-    "notes/img/006.磁盘分割02.png",
-    "notes/img/006.GPT分区表结构示意图.png",
-    "notes/Pasted image 20241009165306.png",
-    "notes/Pasted image 20241010104432.png",
-    "notes/test记得删.md",
-    "notes/Pasted image 20240929115743.png",
-    "notes/Pasted image 20240927120710.png",
-    "notes/006.【磁盘】主要分割、延伸分割、逻辑分割.md",
-    "notes/005.【系统】操作系统.md",
-    "notes/000.webs.md",
-    "notes/荣格作品集-心理类型.pdf"
+    "01.Python基础语法/10.tuple的用法都在这里啦.md",
+    "01.Python基础语法/09.dict的用法都在这里啦.md",
+    "01.Python基础语法/08.list的用法都在这里啦.md",
+    "01.Python基础语法/07.while和for能跟else一起用.md",
+    "01.Python基础语法/06.range()用法.md",
+    "01.Python基础语法/05.pass语句何时用.md",
+    "01.Python基础语法/04.print里还可以加判断语句.md",
+    "01.Python基础语法/03.对象竟都有布尔值.md",
+    "01.Python基础语法/02.小数不准确的解决方法.md",
+    "01.Python基础语法/01.转义字符.md",
+    "00.linux/00.Linux主要目录速查.md",
+    "python/01.Python基础语法/10.tuple的用法都在这里啦.md",
+    "python/01.Python基础语法/09.dict的用法都在这里啦.md",
+    "python/01.Python基础语法/08.list的用法都在这里啦.md",
+    "python/01.Python基础语法/07.while和for能跟else一起用.md",
+    "python/01.Python基础语法/06.range()用法.md",
+    "python/01.Python基础语法/05.pass语句何时用.md"
   ]
 }

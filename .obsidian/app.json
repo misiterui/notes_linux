@@ -1,9 +1,8 @@
 {
+  "attachmentFolderPath": "./attachments",
   "newFileLocation": "current",
   "newLinkFormat": "relative",
-  "attachmentFolderPath": "./",
-  "readableLineLength": false,
-  "vimMode": false,
   "alwaysUpdateLinks": true,
+  "readableLineLength": false,
   "promptDelete": false
 }
