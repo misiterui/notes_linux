@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "notes/01.命令/013.【命令】history.md",
+                "file": "notes/01.命令/04.命令行.md",
                 "mode": "source",
                 "source": false
               }
@@ -31,8 +31,7 @@
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -98,7 +97,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "notes/01.命令/03.变量.md",
+                "file": "notes/01.命令/04.命令行.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +114,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "notes/01.命令/03.变量.md",
+                "file": "notes/01.命令/04.命令行.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +137,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "notes/01.命令/03.变量.md"
+                "file": "notes/01.命令/04.命令行.md"
               }
             }
           },
@@ -167,9 +166,10 @@
       "command-palette:打开命令面板": false
     }
   },
-  "active": "ee4615b056801768",
+  "active": "a67c59e0b193b3c4",
   "lastOpenFiles": [
     "notes/01.命令/013.【命令】history.md",
+    "notes/01.命令/04.命令行.md",
     "notes/01.命令/03.变量.md",
     "notes/01.命令/012.【命令】info.md",
     "notes/01.命令/011.【命令】man.md",
@@ -213,7 +213,6 @@
     "01.Python基础语法/04.print里还可以加判断语句.md",
     "01.Python基础语法/03.对象竟都有布尔值.md",
     "01.Python基础语法/02.小数不准确的解决方法.md",
-    "01.Python基础语法/01.转义字符.md",
-    "00.linux/00.Linux主要目录速查.md"
+    "01.Python基础语法/01.转义字符.md"
   ]
 }
