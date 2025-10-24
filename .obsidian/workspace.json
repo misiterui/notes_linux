@@ -13,7 +13,19 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "notes/01.命令/04.命令行.md",
+                "file": "notes/05.shell/02.shell脚本速度慢！！.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "e8a9cf9775c66d00",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "notes/01.命令/03.变量.md",
                 "mode": "source",
                 "source": false
               }
@@ -31,7 +43,8 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -60,7 +73,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "ulimit",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -77,7 +90,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -97,7 +111,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "notes/01.命令/04.命令行.md",
+                "file": "notes/01.命令/03.变量.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -114,7 +128,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "notes/01.命令/04.命令行.md",
+                "file": "notes/01.命令/03.变量.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -137,7 +151,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "notes/01.命令/04.命令行.md"
+                "file": "notes/01.命令/03.变量.md"
               }
             }
           },
@@ -166,10 +180,14 @@
       "command-palette:打开命令面板": false
     }
   },
-  "active": "a67c59e0b193b3c4",
+  "active": "87e202f353e0d144",
   "lastOpenFiles": [
-    "notes/01.命令/013.【命令】history.md",
+    "notes/05.shell/01.shell技巧.md",
+    "notes/05.shell/04.shell脚本内容.md",
+    "notes/05.shell/03.shell脚本注意事项.md",
+    "notes/05.shell/02.shell脚本速度慢！！.md",
     "notes/01.命令/04.命令行.md",
+    "notes/01.命令/013.【命令】history.md",
     "notes/01.命令/03.变量.md",
     "notes/01.命令/012.【命令】info.md",
     "notes/01.命令/011.【命令】man.md",
@@ -209,10 +227,6 @@
     "01.Python基础语法/08.list的用法都在这里啦.md",
     "01.Python基础语法/07.while和for能跟else一起用.md",
     "01.Python基础语法/06.range()用法.md",
-    "01.Python基础语法/05.pass语句何时用.md",
-    "01.Python基础语法/04.print里还可以加判断语句.md",
-    "01.Python基础语法/03.对象竟都有布尔值.md",
-    "01.Python基础语法/02.小数不准确的解决方法.md",
-    "01.Python基础语法/01.转义字符.md"
+    "01.Python基础语法/05.pass语句何时用.md"
   ]
 }
