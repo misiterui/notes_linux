@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "notes/05.shell/05.循环.md",
+                "file": "notes/02.权限/01.系统账户.md",
                 "mode": "source",
                 "source": false
               }
@@ -110,7 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "notes/05.shell/05.循环.md",
+                "file": "notes/02.权限/01.系统账户.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -127,7 +127,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "notes/05.shell/05.循环.md",
+                "file": "notes/02.权限/01.系统账户.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -150,7 +150,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "notes/05.shell/05.循环.md"
+                "file": "notes/02.权限/01.系统账户.md"
               }
             }
           },
@@ -179,10 +179,12 @@
       "command-palette:打开命令面板": false
     }
   },
-  "active": "fbc5c9aea840eef3",
+  "active": "e8a9cf9775c66d00",
   "lastOpenFiles": [
-    "notes/05.shell/02.shell脚本速度慢！！.md",
     "notes/05.shell/05.循环.md",
+    "notes/02.权限/01.系统账户.md",
+    "notes/02.权限/01.系统账户.md",
+    "notes/05.shell/02.shell脚本速度慢！！.md",
     "notes/05.shell/01.shell技巧.md",
     "notes/05.shell/04.shell脚本内容.md",
     "notes/05.shell/03.shell脚本注意事项.md",
@@ -224,8 +226,6 @@
     "README.md",
     "01.Python基础语法/10.tuple的用法都在这里啦.md",
     "01.Python基础语法/09.dict的用法都在这里啦.md",
-    "01.Python基础语法/08.list的用法都在这里啦.md",
-    "01.Python基础语法/07.while和for能跟else一起用.md",
-    "01.Python基础语法/06.range()用法.md"
+    "01.Python基础语法/08.list的用法都在这里啦.md"
   ]
 }
