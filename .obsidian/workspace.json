@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "notes/01.命令/03.变量.md",
+                "file": "notes/05.shell/05.循环.md",
                 "mode": "source",
                 "source": false
               }
@@ -73,7 +73,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "ulimit",
+                "query": "tag:#遍历列表",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -90,8 +90,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -111,7 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "notes/01.命令/03.变量.md",
+                "file": "notes/05.shell/05.循环.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -128,7 +127,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "notes/01.命令/03.变量.md",
+                "file": "notes/05.shell/05.循环.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -151,7 +150,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "notes/01.命令/03.变量.md"
+                "file": "notes/05.shell/05.循环.md"
               }
             }
           },
@@ -180,12 +179,13 @@
       "command-palette:打开命令面板": false
     }
   },
-  "active": "87e202f353e0d144",
+  "active": "fbc5c9aea840eef3",
   "lastOpenFiles": [
+    "notes/05.shell/02.shell脚本速度慢！！.md",
+    "notes/05.shell/05.循环.md",
     "notes/05.shell/01.shell技巧.md",
     "notes/05.shell/04.shell脚本内容.md",
     "notes/05.shell/03.shell脚本注意事项.md",
-    "notes/05.shell/02.shell脚本速度慢！！.md",
     "notes/01.命令/04.命令行.md",
     "notes/01.命令/013.【命令】history.md",
     "notes/01.命令/03.变量.md",
@@ -226,7 +226,6 @@
     "01.Python基础语法/09.dict的用法都在这里啦.md",
     "01.Python基础语法/08.list的用法都在这里啦.md",
     "01.Python基础语法/07.while和for能跟else一起用.md",
-    "01.Python基础语法/06.range()用法.md",
-    "01.Python基础语法/05.pass语句何时用.md"
+    "01.Python基础语法/06.range()用法.md"
   ]
 }
