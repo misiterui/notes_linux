@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "notes/02.权限/01.系统账户.md",
+                "file": "README.md",
                 "mode": "source",
                 "source": false
               }
@@ -37,14 +37,14 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "notes/01.命令/03.变量.md",
+                "file": "notes/00.硬件/3.CPU.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -110,7 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "notes/02.权限/01.系统账户.md",
+                "file": "notes/00.硬件/3.CPU.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -127,7 +127,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "notes/02.权限/01.系统账户.md",
+                "file": "notes/00.硬件/3.CPU.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -150,7 +150,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "notes/02.权限/01.系统账户.md"
+                "file": "notes/00.硬件/3.CPU.md"
               }
             }
           },
@@ -179,23 +179,33 @@
       "command-palette:打开命令面板": false
     }
   },
-  "active": "e8a9cf9775c66d00",
+  "active": "ee4615b056801768",
   "lastOpenFiles": [
+    "notes/001.【硬件】CPU.md",
+    "notes/00.硬件/3.CPU.md",
+    "notes/00.硬件/4.内存.md",
+    "notes/00.硬件/1.输入单元.md",
+    "notes/00.硬件/2.输出单元.md",
+    "150常用命令/01.hostnamectl设置主机名.md",
+    "notes/temp.md",
+    "notes/未命名.md",
+    "notes/00.硬件",
+    "notes/attachments/Pasted image 20251229103027.png",
+    "notes/attachments",
+    "notes/01.命令/03.变量.md",
+    "README.md",
+    "notes/02.权限/01.系统账户.md",
     "notes/05.shell/05.循环.md",
-    "notes/02.权限/01.系统账户.md",
-    "notes/02.权限/01.系统账户.md",
     "notes/05.shell/02.shell脚本速度慢！！.md",
     "notes/05.shell/01.shell技巧.md",
     "notes/05.shell/04.shell脚本内容.md",
     "notes/05.shell/03.shell脚本注意事项.md",
     "notes/01.命令/04.命令行.md",
     "notes/01.命令/013.【命令】history.md",
-    "notes/01.命令/03.变量.md",
     "notes/01.命令/012.【命令】info.md",
     "notes/01.命令/011.【命令】man.md",
     "notes/04.文件系统/01.文件系统.md",
     "notes/005.【硬件】网卡.md",
-    "150常用命令/01.设置主机名.md",
     "150常用命令",
     "notes/img/VFS文件系统.png",
     "notes/04.文件系统/attachments",
@@ -205,7 +215,6 @@
     "bazi/八字.md",
     "bazi/attachments/Pasted image 20250202182142.png",
     "bazi/case/me.md",
-    "bazi/case/烈2000,0925,0637.md",
     "bazi/case/attachments/me.png",
     "bazi/case/attachments/Pasted image 20250130133228.png",
     "bazi/case/attachments/me.png",
@@ -214,18 +223,9 @@
     "bazi/case",
     "bazi/attachments/地支三合.jpeg",
     "bazi/attachments/地支藏干.jpeg",
-    "bazi/attachments/地支五行.jpeg",
     "bazi/attachments",
     "projects/data_visualization/random_walk/random_walk.py",
     "projects/data_visualization/random_walk",
-    "projects/data_visualization/scatter_squares.py",
-    "projects/data_visualization/mpl_squares.py",
-    "projects/data_visualization/main.py",
-    "python.md",
-    "notes/python.md",
-    "README.md",
-    "01.Python基础语法/10.tuple的用法都在这里啦.md",
-    "01.Python基础语法/09.dict的用法都在这里啦.md",
-    "01.Python基础语法/08.list的用法都在这里啦.md"
+    "projects/data_visualization/scatter_squares.py"
   ]
 }
