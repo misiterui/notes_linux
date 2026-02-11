@@ -37,7 +37,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "notes/00.硬件/3.CPU.md",
+                "file": "notes/00.硬件/4.内存.md",
                 "mode": "source",
                 "source": false
               }
@@ -94,7 +94,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "0733eb5f27517c00",
@@ -110,7 +111,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "notes/00.硬件/3.CPU.md",
+                "file": "notes/00.硬件/4.内存.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -127,7 +128,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "notes/00.硬件/3.CPU.md",
+                "file": "notes/00.硬件/4.内存.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -150,7 +151,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "notes/00.硬件/3.CPU.md"
+                "file": "notes/00.硬件/4.内存.md"
               }
             }
           },
@@ -181,8 +182,10 @@
   },
   "active": "ee4615b056801768",
   "lastOpenFiles": [
-    "notes/001.【硬件】CPU.md",
+    "notes/00.硬件/attachments/Pasted image 20260128200314.png",
+    "notes/00.硬件/attachments",
     "notes/00.硬件/3.CPU.md",
+    "notes/001.【硬件】CPU.md",
     "notes/00.硬件/4.内存.md",
     "notes/00.硬件/1.输入单元.md",
     "notes/00.硬件/2.输出单元.md",
@@ -214,7 +217,6 @@
     "notes/img/Ext2文件系统.png",
     "bazi/八字.md",
     "bazi/attachments/Pasted image 20250202182142.png",
-    "bazi/case/me.md",
     "bazi/case/attachments/me.png",
     "bazi/case/attachments/Pasted image 20250130133228.png",
     "bazi/case/attachments/me.png",
@@ -225,7 +227,6 @@
     "bazi/attachments/地支藏干.jpeg",
     "bazi/attachments",
     "projects/data_visualization/random_walk/random_walk.py",
-    "projects/data_visualization/random_walk",
-    "projects/data_visualization/scatter_squares.py"
+    "projects/data_visualization/random_walk"
   ]
 }
